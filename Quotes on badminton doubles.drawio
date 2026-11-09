@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="omgjh29UCgqbXAb3JF9I">
+    <mxGraphModel dx="1437" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="faj8te8PHyyykhL8Xabv-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" value="" vertex="1">
+          <mxGeometry height="480" width="300" x="237" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Ma Shan Zheng;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMa%2BShan%2BZheng;" value="&lt;font style=&quot;font-size: 32px;&quot; face=&quot;Ma Shan Zheng&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&quot;&gt;&lt;b style=&quot;&quot;&gt;我的我的&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="302" y="267" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=ZCOOL KuaiLe;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZCOOL%2BKuaiLe;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;自己发球/回球失误&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="292" y="342" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=ZCOOL KuaiLe;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZCOOL%2BKuaiLe;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;干扰队友&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="292" y="393" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=ZCOOL KuaiLe;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZCOOL%2BKuaiLe;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;擦网得分&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="292" y="442" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" value="" vertex="1">
+          <mxGeometry height="480" width="300" x="237" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Ma Shan Zheng;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMa%2BShan%2BZheng;" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;好球好球&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;厉害厉害&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="302" y="797" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=ZCOOL KuaiLe;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZCOOL%2BKuaiLe;" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;队友击球得分&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="292" y="883" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=ZCOOL KuaiLe;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZCOOL%2BKuaiLe;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;对手击球得分&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="292" y="934" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" value="" vertex="1">
+          <mxGeometry height="480" width="300" x="237" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Ma Shan Zheng;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMa%2BShan%2BZheng;" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;可惜可惜&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;差点差点&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="302" y="1327" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=ZCOOL KuaiLe;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZCOOL%2BKuaiLe;" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;队友击球出界&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="292" y="1413" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=ZCOOL KuaiLe;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZCOOL%2BKuaiLe;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;队友击球下网&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="292" y="1464" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=ZCOOL KuaiLe;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZCOOL%2BKuaiLe;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;对手击球出界&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="292" y="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=ZCOOL KuaiLe;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZCOOL%2BKuaiLe;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;对手击球下网&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="292" y="1558" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" value="" vertex="1">
+          <mxGeometry height="480" width="300" x="237" y="1820" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Ma Shan Zheng;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMa%2BShan%2BZheng;" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;对不起！&lt;br&gt;对不起！&lt;br&gt;对不起！&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="279" y="1927" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=ZCOOL KuaiLe;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZCOOL%2BKuaiLe;" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;痛击队友&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="296" y="2093" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=ZCOOL KuaiLe;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZCOOL%2BKuaiLe;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;痛击对手&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="296" y="2144" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Ma Shan Zheng;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMa%2BShan%2BZheng;" value="&lt;div&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;3.118ex&quot; height=&quot;1.136ex&quot; role=&quot;img&quot; viewBox=&quot;0 -491 1378 502&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; style=&quot;vertical-align: -0.025ex;&quot;&gt;&lt;defs&gt;&lt;path id=&quot;MJX-1-TEX-N-D7&quot; d=&quot;M630 29c0 3-1 6-2 8-1 2-32 34-106 108l-104 105 104 105c74 74 105 106 106 108 1 2 2 5 2 8 0 11-9 20-21 20-7 0-16-9-116-109l-104-104-105 105c-75 74-107 105-109 106-3 1-5 2-8 2-11 0-20-10-20-20 0-3 1-5 2-8 2-4 25-28 106-109l104-104-104-104c-81-81-104-105-106-109-1-3-2-5-2-8 0-10 9-20 20-20 3 0 5 1 8 2 2 1 34 32 109 106l105 105 104-104c100-100 109-109 116-109 12 0 21 9 21 20Z&quot;&gt;&lt;/path&gt;&lt;path id=&quot;MJX-1-TEX-I-1D45B&quot; d=&quot;M108-11c17 0 35 10 43 27 3 6 10 30 38 141l33 134 7 12c34 58 72 89 119 99 8 2 14 2 26 2 37 0 49-21 49-59 0-13-1-28-3-38-8-42-26-99-56-178-12-32-14-33-14-56 0-22 12-45 24-59 16-14 37-24 65-24 19 0 27 1 43 9 45 25 77 71 94 131 2 7 4 12 4 15 0 9-6 8-20 8-16 0-18-1-20-8-14-52-46-119-96-119-14 0-17 9-17 26 0 18 3 31 18 71 29 77 48 137 55 175 2 10 3 25 3 38 0 71-50 106-121 106-64 0-104-28-139-64l-11-11c-1 0-1 1-1 2 0 3-7 21-11 28-15 26-44 45-85 45-7 0-13-1-17-2-49-11-77-73-92-132-3-10-5-20-5-21 0-3 4-7 6-9l14 0c15 0 17 1 19 6 0 1 3 11 6 21 6 24 15 51 21 63 11 22 22 37 42 37 18 0 24-17 24-39 0-8 0-18-1-23-6-35-78-303-78-326 0-18 17-28 34-28Z&quot;&gt;&lt;/path&gt;&lt;/defs&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g&gt;&lt;g&gt;&lt;use xlink:href=&quot;#MJX-1-TEX-N-D7&quot;&gt;&lt;/use&gt;&lt;/g&gt;&lt;g transform=&quot;translate(778,0)&quot;&gt;&lt;use xlink:href=&quot;#MJX-1-TEX-I-1D45B&quot;&gt;&lt;/use&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="376" y="1918" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=ZCOOL KuaiLe;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZCOOL%2BKuaiLe;" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;ORZ&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="298" y="2018" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" value="" vertex="1">
+          <mxGeometry height="480" width="300" x="237" y="2510" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Ma Shan Zheng;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMa%2BShan%2BZheng;" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;我来我来&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="302" y="2617" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=ZCOOL KuaiLe;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZCOOL%2BKuaiLe;" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;对手回球到了手边&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="292" y="2704" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" value="" vertex="1">
+          <mxGeometry height="480" width="300" x="237" y="3060" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Ma Shan Zheng;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMa%2BShan%2BZheng;" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;你来你来&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="302" y="3167" as="geometry" />
+        </mxCell>
+        <mxCell id="faj8te8PHyyykhL8Xabv-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=ZCOOL KuaiLe;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZCOOL%2BKuaiLe;" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;回球角度刁钻，不想跑动&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="254" x="260" y="3254" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
